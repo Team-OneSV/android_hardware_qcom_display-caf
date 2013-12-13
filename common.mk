@@ -5,7 +5,6 @@ common_includes += hardware/qcom/display-caf/liboverlay
 common_includes += hardware/qcom/display-caf/libcopybit
 common_includes += hardware/qcom/display-caf/libqdutils
 common_includes += hardware/qcom/display-caf/libhwcomposer
-common_includes += hardware/qcom/display-caf/libexternal
 common_includes += hardware/qcom/display-caf/libqservice
 
 ifeq ($(TARGET_USES_POST_PROCESSING),true)
